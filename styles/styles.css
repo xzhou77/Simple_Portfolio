@@ -308,22 +308,22 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .data {
+  width: 100%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .ai {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .software {
   width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .leadership {
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .innovation {
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .research {
   width: 70%;
 }
 
